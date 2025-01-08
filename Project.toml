@@ -1,11 +1,12 @@
 name = "Octave_jll"
 uuid = "64f2a4eb-bfb0-58c4-a645-9e6f61b41e29"
-version = "9.2.0+1"
+version = "9.3.0+0"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
 Sundials32_jll = "3d421925-9ddb-5fba-844f-eab55ed40f51"
 FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
 QRupdate_ng_jll = "c2997458-08a2-5152-82e8-5e3e3871749a"
@@ -28,8 +29,9 @@ Arpack32_jll = "e6e84423-31a5-5eac-8af8-154a55d94dc3"
 SuiteSparse32_jll = "ca45d3f4-326b-53b0-9957-23b75aacb3f2"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.8"
+libblastrampoline_jll = "5.8.0"
 GMP_jll = "6.2"
 Libdl = "< 0.0.1, 1"
 CXSparse_jll = "400.400.100"
