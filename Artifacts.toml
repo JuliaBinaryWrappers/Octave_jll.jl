@@ -1,280 +1,280 @@
 [[Octave]]
 arch = "aarch64"
-git-tree-sha1 = "43f1065f1314f0a56b7b82662d28a161337e8a07"
+git-tree-sha1 = "f408943f78db73b219d07420940859befd2877b1"
 os = "macos"
 
     [[Octave.download]]
-    sha256 = "7ec2393f9a7fb58469d60f0c69e780e65fe2791e9e702be7a1460cdafb531dd0"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "0ae3d8104f469e48e401735f22a3cab5253a94e402a57f7c9ed469c33a3f3633"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.aarch64-apple-darwin.tar.gz"
 [[Octave]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f0647eaf58fb9301a54411253799cb74d97a1fd"
+git-tree-sha1 = "b0b02edb3b0752c3ff62f60d43e7b35dd53bf201"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "a161fb68c9866566302910d031ffe96a46f2866e347a1399f7d0ee0a1041b7bc"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "21f604f7630f7fa4116f5120601ba9557857c6a421a2d1f53a4ecd2fa02c31eb"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Octave]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "759b2c8390751ccd73bfa8997e17db844b34801c"
+git-tree-sha1 = "ea68111c3eab8e31277c6eab662c84cfb4eecfad"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "3c57e52e5cb4733f05975f9a97773310785bac53833e6c463ceec0fec60365ce"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ad2d31b5f9316f620fde9c0c34851cfb0716826ccbc607c6d7e61c2be1fec98b"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Octave]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b6d06e21879792b94c65354578c0454e2748ffae"
+git-tree-sha1 = "05b466c4e76bbdc19c034d156d10af8a4630e7f5"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "eab207c94ee77fb378b40d1e910f23b18cb9e02d4049ddfdf7c25a40613a9899"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "8825f62c83ccfaa032a3f1159f755159f93891013b575447ccac10eecc2dc766"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Octave]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c84eb6e969ccf435932eae43e5a9f56bdd2c917f"
+git-tree-sha1 = "4e12733dc07c2eeba1ecf6f3127b4866d8debb27"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "565d59e4d9a7a74302fc3cff65292b34890cc80f4c8d4661129ff24a450c3bb2"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "c16eaeb14c7becdbd33b8b57b518ec1929ba04a6e354170a75b86e18f03b7f78"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e84f5937487d54e7f5925fe9da35b7dd788ef62"
+git-tree-sha1 = "5abe1ddb34176f3253a22fee7a23921de2157bed"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "2e0049cd3784768a9fed1709ea3c2d39a43f5f3e419b56e9587fdff99632c589"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "1506a4170a2c7e2970ad30afea791c72de58089dcc904d14841f83578c23c5ea"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91ba51bdbf532ba23c06462705efc240bfbf6701"
+git-tree-sha1 = "c193952bea82d8d0d0f92a1568ec8b9e2fb25203"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "92bd6d538b73932c283a9c8b40a17e73deabf96ad9a7f69ddbaa282f1f910ba3"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ac41c63ea8825cf28bd5233f0ddacc904d193be74f8b1b4c305fb10d0088c8a2"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e27c5aab3687815faf5dae67a16520bfc799d055"
+git-tree-sha1 = "fe251d0709ac4ded3332679a812f7f5d19c2c0fc"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "5ca40e821b9e03c6695fde8b8716804f72845d234bed11e55dc2ae5c061a09a6"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "1e17aa6a094431530c8fb607cb5e19f981cde9181ae9ed39de2b72dc8fa954cc"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "00c9d9f4208b3add093d0fe31b38712df00a576d"
+git-tree-sha1 = "020f30f95f47606625e520efdd55dd0b3542ab9f"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "7233b6128b3a58d9b1849f4fd018c459f540292f927a7b5a0d041fabb89874f2"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f781f32824fae331ce4cecfadd58e45ed31e55cb8e85481abdecac5a70537727"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c46b97b9ef9418b6faeddfc8a31aef0931035e4"
+git-tree-sha1 = "9a6b0375c49246412be75ab8577074428a41f9ab"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "6a5921acbdfe028cce46deee72b5dbb7e6742255c9e2bc7bf5ae10c82fb90a59"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4a48bf8476633e2dc83ac0b6593892980ddc437c9455ed5a7e76792bb55c9fc5"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b52bc72d77ddd6160afd23d46cca7f7aedce3aa0"
+git-tree-sha1 = "fe85358e53de478e2aa35976785a4bed9b247bc6"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "2cc7164228d27c80010061f34b01bdb8e815c23865febdb76da9fffb63d3040a"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "28a8d7a03f971688a1819131ce3e88d93665026eb1b50a9f3ca9eec64e43d2e1"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2cf59f0d67f903ed8c1fca4a7b635b36aa5a9f0"
+git-tree-sha1 = "207814aa84bb05824c8e4d43dc619e308aa5abc0"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "929cf418102044a8d56304156e7bdae31f866a0fd632b52f4f26002110743b3e"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "71023b0e96e25f3a9fc259ba5de78540f79829b2a99376f1b4083f0c34777f3d"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8e8158aca4f337d5489174bfc77effe4c8d11c6"
+git-tree-sha1 = "81303a9ac4b9e96bac24407a3961b06da689a3c2"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "a767bcfcfb41bc2fb8f1e4269d2d8761c6029c67b05d40b5277a2818ef8418f3"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "80f4e511582a080d9565296901dacf58fbbd9b353d83ad7cec50699fd4adbf14"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "970e774119ae7142b46c1a3e7f07b3ee50bfca5d"
+git-tree-sha1 = "9633406d09c38a1b365d1edd0741312709995e01"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "cefaad7731442db00367cd442fc57927fba3b1308fb56f833a87b7c39042f46a"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "1e72146ca369b2d77049e3cce7184d051593f99561f72ad1706c6fbbe866fc27"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-linux-gnu-cxx03.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f70ca5559fba5f6e8f3b8abdea57837b1dfed462"
+git-tree-sha1 = "e2c4027d4fb75d1d81be155f9ca444de9fd5e4ab"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "15187f9af8b429010a1278563368372f8551150d4967eaddda3be1c28b7285e6"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "5f09c90dfbb3dfaa89b5a6e3e117baa03f84098ad7cc960293f5c99467e4f7bb"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-linux-gnu-cxx11.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "37c91aba981eeaaed3359835d66feaa97b3cedff"
+git-tree-sha1 = "30e252f6679e7e3c6c0442e2117aa71d59f37d5f"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "7f37da199bf740dddda968dc8321b5490bb1d6ae6d8913e2d16c1417a1b098ec"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "c30a77d63a2b88fc173b744fc2384f873bd33aca8da1031cddb07551cd7ff0ea"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-linux-musl-cxx03.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef25c4e78b6568536992b2efd7c2719e22386cd0"
+git-tree-sha1 = "94a2ac6a6e9746aa8b373a7c1a1f54d8ba5047d5"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "c3269ae2c33241357b189ddeb5c5665e8fa7f8dcbc6b3087ca6e74f668f6fbc9"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "a9be9ec3b0c340936652b1c294d09cc7550574ca1d21daee50426b60756a2e93"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-linux-musl-cxx11.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d12023eda9965e9887b206c70aeaa86d2fcdba5"
+git-tree-sha1 = "526ca7219ba722c316e777c4b8e28471abdc77dd"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "2e23a531d065672d90dc0044bd4e61cf4afd42e08331a6f73eb388c502ae5d88"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "097d7eb268a5fe758e9f76b5204521af0cf5aae92bd5c3ce7eae75f3a8aa2a76"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55b4b640835df231c9fa2b57699fc007331d6a74"
+git-tree-sha1 = "b42346e88cd444a68aacad45a4749377bd5bdea7"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "5a445c3830e048703e0992f1a40a7964065b1e19fd7a178111a506faf6931d29"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "7f55be26c24a3b0d95f36dc9691315eebd03f724e5449282e71e2b7e534099c0"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Octave]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4806c376b29a2a02f8a396eac8c08d226ecb7100"
+git-tree-sha1 = "a898c5a0cd60024d1e35aa7be9d7291074661281"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "40344d60e50113d208c434f386331e26f188397e21a24ab860852488967f0a8a"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "851b47afc1d799ce658054e42339e458f30cd9f6509152160690bb24088b430c"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Octave]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d87d5751350337dce79fe0f0db49a3d6686aa69"
+git-tree-sha1 = "6e1bf24dbbc001967391132a2d8325b85939075f"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "3ce8e03bb22b438932a2447cecb71d666024b7154101d23b648f84bbd087bd8d"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "35e6f3926e6107b2bafbd80d711a9d1360d79d50100c9ce2dc623504e5188de4"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
-git-tree-sha1 = "42fcaaa02bea03eebc5a6a8f6660b79fdf14990f"
+git-tree-sha1 = "80647c4c6aa46bb5a7a25a2708f4c625e66aba5f"
 os = "macos"
 
     [[Octave.download]]
-    sha256 = "6b48592c0ab34d191a0ceb3d0fc294a288f163bf4a987474eb1d70e7ec3fa39c"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "68bd85cf63224f1fa71111aad0b5b537e7551de80fec33fab1c1a2a2eff95f2a"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-apple-darwin.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e8e0ec7b6958ebf1703f5cc710b7f87a05df12e9"
+git-tree-sha1 = "02a8f3ed8ac4e85c98ec7e1eea3b4056728b15fa"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "2ce78325d8105f0c216b83405d2a4298e5630a21ccee630a4b4033eaed572785"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "39e9c687060bc60556c3639788c07dbe2039c4834ba4b8efe914d8396e939763"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d7b4d0ab38270c1c1943adfaa615c3b7558fbeb"
+git-tree-sha1 = "56eb0a44bd2e07c6e5829bd94f40a3327bec94fc"
 libc = "glibc"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "272263e8bc4559656a447b16e63432f8a134edc4d1249d25de9cd8e62976f688"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f2707bcda759422bedaae56f44dad174d903dc1e7ae55cd3e1e682e4ddb740ac"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41b0b7220713615662889b20b29ef64bcf321177"
+git-tree-sha1 = "9f57a06c953c28a1704a0241066482e046adb020"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "fb788181882f04710b4451534d81ffff2ffc3c0cb33c87f88c0d6bba4be46ba3"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "10789288a1f1027599eda42843a3515596ee734bfe3d4ca7469e4d9e98fb22a9"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba82c6e0bdda44ca51b9717bce842bd0c828a8dc"
+git-tree-sha1 = "7bd9f5436f38a0eff3a46c6b37ca81143ec4e619"
 libc = "musl"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "a035fe3cfc9114552a7f7a42b69a5f69d5d8047bb69747dc3deb8679dde747e4"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a7b3c97b25ec90a9ba7e3ecfa88fe65613258792258a1d076bebe26b43788f6e"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1031069a17367ae8012ff0b2ebd27f06230d0588"
+git-tree-sha1 = "9835330200cd698c031f0eed67b485881d2ec84f"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "1dbefb6ac654d7a4060a7c8e303af582e2c0ca83244ff30a8898740415fdfdcb"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "47427b9ec02f57ee165d28a3e493b84d09088022526b321b1e68095209085fbc"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5fa6808f3ada39e7bc9140d22b31b9a651f0d1ea"
+git-tree-sha1 = "9ae9594d9a15852658fbf9f5362de8d0c35cedc8"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "74a4c8a0e3e64dfb8d86cb661eefefecdc1252d408dfc04bb6e2f2eb8a981dcf"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.0+0/Octave.v9.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "fa699ae79bcee045f4177a233e0ebdecaab0143ec1206d2779251bfbe2476d61"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.3.1+0/Octave.v9.3.1.x86_64-w64-mingw32-cxx11.tar.gz"
