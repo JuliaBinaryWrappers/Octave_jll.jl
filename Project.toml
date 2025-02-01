@@ -1,6 +1,6 @@
 name = "Octave_jll"
 uuid = "64f2a4eb-bfb0-58c4-a645-9e6f61b41e29"
-version = "9.3.1+0"
+version = "9.3.1+1"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
