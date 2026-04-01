@@ -1,326 +1,192 @@
 [[Octave]]
 arch = "aarch64"
-git-tree-sha1 = "0541f485d3662243063af20343266cdf6634b5d3"
+git-tree-sha1 = "efc0ddaee07d79459d1af2f9e2f6be6dce9a5e77"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Octave.download]]
-    sha256 = "5efd276c48992cceb30834b9de05cd49d9982b303def4c7bfb961df3edb341be"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "c0d6c41197bd8c3c12ccd75aa318f3ce2f08e52cc16395d0110c5859543d8546"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Octave]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "532357aab19155f651c4a2c76b2ba587465de737"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "539e9dc51551d6e8234521423b11e4723db205fa"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "d2f8d05b1eafaa2db44a49d0db4885b80861e480037ee0e4ccbeabd61d25cf62"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "500acfdf11160340f7668a2ad8dd7f6c774127f987e43344a1211cd5478f0b2d"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1bf9edfd1f45c3208400443edc10ace40b2ef74c"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "6714473103e1116a7fb0cbf4c6df953b39915eaeded716e6b73c3865f8256f76"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8efcb1a3c6f506e12f33ec859fdcb6fefde3b52e"
+git-tree-sha1 = "28ed394e3296d1c899bbc841064329ac8cc0e34d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "fb062588bd29b27a899007c249bc5414927d95373bb27c2056708f1273bc4e43"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "076f561721fbbc69d59d2cd64e28d5f52f1bfcc6af68c1fb70ad64cd7219b090"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "45d2406d94cde226f45a581e1cfcdfa0da88142b"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "b102c8ac83369ebced7bfc25a646c3e2970255f7bf0f45bc35cb701401594010"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "aarch64"
-git-tree-sha1 = "9173f3720da145872306a9629ba4997c41eab35e"
+git-tree-sha1 = "5bd46280b6bf1bb6edd956a57712244d5f2086d6"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Octave.download]]
-    sha256 = "0cf8379b189a634abf66ec5a77846d3ea75c1534644db22a25af3616274c3fbb"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
-[[Octave]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8648c73ba716a8d4b6644b66eaa30a4ebabdb9f"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "ca75ba19a83d51bf7bac2751e94d22c957062a85bff8badcd07c7eb2edcc608f"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "07b009ca888cf453523e752fcc683e7e604f3eeb366e63be15aea6c277766147"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "34bbd4b38e938fc42ffaada80f0cca683e85bca1"
+git-tree-sha1 = "aa89eb3f49a7366b5e52c6d8df0d25f32fdc1311"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "01198a56a4eb2128e685b7bd60545836401843e57c8d8ae784a29f4c878617fa"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f27ec291777bbde0ff3aee5e2e61e6315efac327"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "6546673c524819413c4a2c8674668d33788478ae3a7e85ab442bba540895f458"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "2ba0e4d13e22ffb65eaa870f7d8b0ab3d4a3fd50d23a1fc3419d9473186c4ed7"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5510165dddd88dd0210bd7ce091e61bca6032495"
+git-tree-sha1 = "308f854d75af6554f4ef3c76de275025b9e91ce2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "963d6af9214a0ad226027c036964c900e1187ebf72e32dc22f8cf9df6ade7812"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "17bf02026c290c1bdc2f131c5c1090dcf928cadf798e7c1aa75588174e61c2df"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0c5a7e5ec584c99b3c566d661e618c4b22aab38c"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7328b639e5d95fcc666c54848213bca501477854"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "6221f6caedb7a735360d0588d94b90d12eb6d9357bac448532a44e8c8ca8a2f3"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "759e907d90ddc803201b79740fd6bb323f999a624436c2e9d6be1dc91739ebe1"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f04ecbfa5e9fd864043a5dbb0a021470152a982d"
+git-tree-sha1 = "a2168f2764d6ba51877041a89576d43a40276e63"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Octave.download]]
+    sha256 = "070bc13a54907910428566aff5c170b28b905089a0f7c5bd09c7c5e051bc7eae"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[Octave]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4f022467224e1b51a917814f059c82e9fc03223"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "3df018d04884e8b6c3fd2cfb1dff97a99c09648753b60a8a2dfb82aedeb77bae"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1538fa96a2c1d40514fefbf0e3504c0109bf832e"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "5fb9df64448059e8b394ab2a377eee0e0cc50fd1b38446250f970d71bd4bb9ae"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
-[[Octave]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b96a77f3e6aae8e19439cdaedfe2ad74cb69ec5f"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "a24b4ff701f77983f58ee346e790c4b8cc8f1946baaa13c2ee890a6a208f1e31"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ca66171b2f03f551cf238af4ec1e7bf5cef6195"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "f8fbfebca3aa54e2175cf28b53b78c2a1da716a049ff49938350ad2ab79bbb13"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "0a920accccab9a0736fd9772a4f4fbbc17b15b73a8395e39b1511e76d7e4817a"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "19e751e4d51e4f8aa419abc473655487cb7f40cd"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "9de589360df2d46d995163bd0f013ffdde477292d24ba0a295ae563ea52b9a8a"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f14dada28ba3b43fefb39215dfa5ab4dc02f5d03"
+git-tree-sha1 = "68a5d6cb88dc930fd676591c10ab15de568f496a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "a8ad57a66f860238ea065360284fc00be0858936fcdf799f9ecc9657ea1ffa91"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "531c7ae263ddfab908b97714d93997c1ad7201951473b5c8591228545d5434c7"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4739e80184161d9661168ec0ff119a390db69e63"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "fda8e78a2bfc36d1c7dc64d6be0cb8915201bc51cb022d1a25f70cb2e4de5daa"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "146679d18183cb09789e66e4d9fbc05a0768f671"
+git-tree-sha1 = "0b8f13af7b6ebcde1415babc75aa744783531f71"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "3fff7aac6b370b2422e7438f9f2063caafcc64a92af527c27c4bee3147d9ca2a"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
-[[Octave]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "49ba6dbc98ae0e7c3e7de30c9b4cb5cc4570d009"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[Octave.download]]
-    sha256 = "ab335b8b17b90986e58f79b77ff629e2b8a840118d936de2e1a062a6d3002b4f"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "06d6bed516d56aef3ddf06ab456611628ada5fc08c423e18e8d582eb7af5e91d"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "039257905eeb9899214c4b28c713cacd24b8e83a"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7d75ff27fb33b5387de94dd3e34194d17b10a7f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "07c8c889bec13112225e75ba3d434bbd0babf2ba9137ef3c1756287f9d5f6c63"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "76bbdcdc3dc5e3185529d9543a2fae03b5e984580835e909336a78e9f695ab6a"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Octave]]
-arch = "powerpc64le"
+arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88db51979894cf7a29ee3dffce3fde90bb9ed3e6"
+git-tree-sha1 = "4396fe7bc1a0fd0511f9c9ec4412d40076e75e22"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "c11d28a5bce3b61d83a0bd4e66748ef1bc69d8e14a5e2514759a1f5ff6734634"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "0a7655bc021904d17c0d9b2f442a4465dfa4c57177488ef2ed3d18ea64f86588"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.riscv64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
-git-tree-sha1 = "72d560f9cfe3fc57484ac17f1f439a8b4fd7702e"
+git-tree-sha1 = "2a107b6a3c6006b1a1c49013cbce9653e28ff912"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Octave.download]]
-    sha256 = "df1fbbbfc29210aee4bd236ab8476126347beca726ebc3760f32fecc63a24a87"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "128397f5b10d1eda4a1161abc486fe20bc7157179a279081063cb325f48c26f3"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Octave]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d9cad184ad8d4acf7acdeb43776c557b8f5040d7"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c216179fe22515745c55b4af4ae8295b4a5ed73"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "91d0cdcdcff419ee2c4eea3b920b54c9ce547e852a276e59b5453da647cc1685"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "0b09ffb64b7fdf9702b71d232bbac9c98770e171d5a141d01f0c7dac1473b543"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b3441e8c98c3fd7493451de2bd17d76e98494c8"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "05b39a8afaf45fc5611e47b919ecf42c062c3bad4211bf56bd674a816fdb8111"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f8c9fd4e71e3e034a499392ee9b6131da1f2ba91"
+git-tree-sha1 = "c2e451830467312613119f2458f95e1546a17c42"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Octave.download]]
-    sha256 = "3f75bca0e3bd18ce3cd49e6e3c5595bf75505f92b84929fbea0085b1a003e77f"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "b60b6c42d9bfe5320de52e49e552afaf88ccd92e5cdb70c1566da257191c0e64"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Octave]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "92e04acec26739282bfcc00ef6dd189656188456"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Octave.download]]
-    sha256 = "39535cfea1fdb0173463aab36eb15827ac554ef26acc599ad36ea8dc46a82cce"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
-[[Octave]]
-arch = "x86_64"
-git-tree-sha1 = "9186520ebad5560522de4adf1658c209877df833"
+git-tree-sha1 = "c1b5dd86ee19a697e431131225f27916f2dddd2b"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Octave.download]]
-    sha256 = "b2865f71679189994944f8b5f255cab6d6017c7f13aaf01699aacbc625c31e4e"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
-[[Octave]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9624e8e13ac956d593aed21ab6d68c005a676101"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[Octave.download]]
-    sha256 = "cb482a1f3f9eee67e6f84c4f3a8fe951c29bbfeb1565d03df61fec707ca78204"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "53c7c74828fbe4bffa2a8220bc4cc0aa3a62cfa3ff08c2fcb0eea97c82ce9c7f"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Octave]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e28ea42737c5693f7932706082e1a9f5546eaafb"
+git-tree-sha1 = "2413a7623fa341e5787b5ddabb2e01ffb1378267"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Octave.download]]
-    sha256 = "04c052436c38bcad2cad1580359f2875d35b96890c7c4b6c9ee6e391f72f478e"
-    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v9.4.0+0/Octave.v9.4.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "230d22419dfa79c33547cef30fadf202e643ec949b0b2ca23569a1d775423ae0"
+    url = "https://github.com/JuliaBinaryWrappers/Octave_jll.jl/releases/download/Octave-v11.1.0+0/Octave.v11.1.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"

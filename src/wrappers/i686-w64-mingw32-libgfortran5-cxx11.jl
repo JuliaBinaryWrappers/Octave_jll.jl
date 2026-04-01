@@ -30,12 +30,12 @@ function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll, OpenBLAS32_jll, SuiteSparse32_jll, Arpack32_jll, Sundials32_jll, QRupdate_ng_jll, CXSparse_jll, PCRE2_jll, Readline_jll, Libiconv_jll, Zlib_jll, Bzip2_jll, FFTW_jll, GLPK_jll, GMP_jll, LibCURL_jll, Qhull_jll, HDF5_jll, rapidjson_jll, libsndfile_jll, GraphicsMagick_jll)
     JLLWrappers.@init_executable_product(
         octave,
-        "bin\\octave-9.4.0.exe",
+        "bin\\octave-11.1.0.exe",
     )
 
     JLLWrappers.@init_executable_product(
         octave_cli,
-        "bin\\octave-cli-9.4.0.exe",
+        "bin\\octave-cli-11.1.0.exe",
     )
 
     JLLWrappers.@generate_init_footer()
